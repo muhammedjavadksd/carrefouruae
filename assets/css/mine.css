@@ -163,3 +163,91 @@
   .profile-info{
       background-color: white;
   }
+  .account-details{
+      background-color: white;
+      box-shadow: 0 1px 4px 0 rgb(0 0 0 / 20%);
+      padding: 24px;
+      height: auto;
+  }
+  .finish-account-alert{
+    box-sizing: border-box;
+    margin: 0px 0px 15px;
+    min-width: 0px;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    color: white;
+    padding: 7px 20px;
+    width: 70%;
+    border-radius: 20px;
+    background: linear-gradient(
+212.59deg, rgb(190, 47, 105), rgb(138, 21, 56) 100%, rgb(138, 21, 56) 0px);
+  }
+  .holder-name h4{
+      text-align: left;
+  }
+  .holder-name-edit p{
+    text-align: right;
+}
+.account-user-info{
+    border-right: 1px solid; 
+    height: 50px;
+}
+
+@media (max-width:390px){
+    .finish-account-alert{
+        width: 95%;
+    }
+}
+@media (max-width:736px){
+    .account-user-info{
+        margin-bottom: 16px;
+    border-right: none;
+    }
+}
+.account-add-address{
+    background-color: white;
+      box-shadow: 0 1px 4px 0 rgb(0 0 0 / 20%);
+      padding: 24px;
+      height: auto;
+}
+#second-box-account{
+    margin-top: 20px;
+}
+.css-1bqxgbb {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    height: 112px;
+    padding: 16px;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    border: 1px dashed #CFCFCF;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background: 0;
+    cursor: pointer;
+}.css-1ynpsb6 {
+    box-sizing: border-box;
+    margin: 16px 0px 0px;
+    min-width: 0px;
+    flex: 1 1 auto;
+    
+    color: rgb(77, 77, 77);
+    padding: 16px;
+    
+} 
+.css-1erlgsy {
+    text-align: center;
+}

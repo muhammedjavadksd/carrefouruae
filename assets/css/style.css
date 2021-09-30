@@ -19655,7 +19655,9 @@ h3.cart-page-title {
   font-size: 13px;
   display: block;
   padding: 10px 15px;
+  height: 64px;
   text-transform: uppercase;
+  background-color: white;
 }
 
 .myaccount-tab-menu a:last-child {
@@ -19663,9 +19665,9 @@ h3.cart-page-title {
 }
 
 .myaccount-tab-menu a:hover, .myaccount-tab-menu a.active {
-  background-color: #ff2f2f;
-  border-color: #ff2f2f;
-  color: #ffffff;
+  background-color: none;
+    color: black;
+    border-left: 3px solid blue;
 }
 
 .myaccount-tab-menu a i.fa {
