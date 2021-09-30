@@ -6,7 +6,7 @@
     border-radius: 8px;
 }
 .main-container{
-    padding: 50px 270px 128px 270px;
+    padding: 12px 270px 128px 270px;
 }
 .body-background{
     font: 14px / 1.2 Roboto, sans-serif;
@@ -34,8 +34,12 @@
     margin: 0;
     max-width: 610px;
     min-width: 600px;
-    margin: 21px 100px;
     padding: 85px 65px;
+    margin: auto;
+    margin-top: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .loginbox h3{
     font-size: 20px;
