@@ -331,3 +331,37 @@
 .product-description{
     margin-bottom: 30px;
 }
+.facts{
+    border: 1px solid;
+    padding: 20px;
+}
+.facts h2{
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-size: 24px;
+    margin-bottom: 24px;
+    color: #000;
+    font-weight: 700;
+}
+.table-view{
+    height: auto;
+    width: 100%;
+    border: 1px solid;
+    
+} 
+.table-view h5{
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    padding: 20px;
+} 
+.table-row-group{
+    margin-bottom: 25px;
+}
+.table-detail-group:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .table-detail-group {
+   padding: 20px;
+  }
