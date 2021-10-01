@@ -255,3 +255,79 @@
 .css-1erlgsy {
     text-align: center;
 }
+.add-to-cart-box{
+    background-color: #f0f4f6;
+    height: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+.btn-button-cart{
+    width: 100%;
+    height: 39px;
+    border: none;
+    background-color: red;
+    border-radius: 8px;
+    font-size: 15px;
+    color: white;
+}.css-1hbtsu4 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    color: #000408;
+    font-size: 12px;
+    margin-bottom: 14px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background: #F5F9FB;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+.frequent-roduct-buy{
+    height: 30px;
+    width: 30px;
+}
+.border-box-frequent{
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 10px;
+     
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+.border-box-frequent h3{
+    font-size: 17px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    font-weight: 500;
+}
+.frequent-cart{
+     
+    height: 39px;
+    border: none;
+    background-color: red;
+    border-radius: 8px;
+    font-size: 15px;
+    color: white;
+}
+.border-box-frequent p{
+    font-size: 17px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    font-weight: 500;
+    text-align: right;
+    margin-right: 10px;
+} 
+.facts-list{
+    margin-top: 30px;
+    padding: 30px;
+    border: 1px solid;
+}
+.product-description{
+    margin-bottom: 30px;
+}
