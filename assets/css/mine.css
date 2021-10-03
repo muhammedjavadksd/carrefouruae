@@ -516,3 +516,15 @@
         display: none;
     }
 }
+ @media(max-width:500px){
+    .shop-area{
+        padding: 0;
+    }
+    .filter-dropdown {
+        width: auto;
+        height: 38px;
+        padding: 2px;
+        background-color: white;
+        margin-bottom: 15px;
+    }
+ }
