@@ -1,0 +1,22 @@
+:root{
+    --main-background:rgb(250, 250, 250);
+    --main-color-black:black;
+    --main-font-family:"Poppins", sans-serif;
+    --color:#666;
+    --border:#eceff8;
+    --color-737373:#737373;
+     --color-second:#eceff8;
+     --border-second:#626262;
+     --color-background-some:#4FC1F0;
+     --color-fff: #ffffff:
+     --color-red: #ff2f2f;
+     --color-borderside:red;
+     --third-background-color:#dedede;
+     --bistha-color:#70c01a;
+     --rcnorda:#4dbdaf;
+     --rcnorder-one:#6f50a7;
+     --rcnorda-third:#ffd74b;
+     --rcnorda-four:#999999;
+     --type-black:#232324;
+     --rcnorda-five:#6D6D6D;
+}
